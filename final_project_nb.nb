@@ -1,0 +1,3 @@
+Final Paper Reconstruction
+Roshan Kern and Mehlam Saifudeen
+The paper we are recreating: A Mathematical Model for the Dynamics and Control of Malaria in Nigeria by O.C. Collins and K.J. Duffy: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9661649/
